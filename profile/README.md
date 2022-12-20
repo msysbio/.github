@@ -1,1 +1,1 @@
-Welcome to the github space of the lab of micfrobial systems biology
+Welcome to the github space of the lab of microbial systems biology
